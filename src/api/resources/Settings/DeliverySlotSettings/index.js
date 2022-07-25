@@ -1,0 +1,1 @@
+export { deliverySlotRoute } from './slotRoute';

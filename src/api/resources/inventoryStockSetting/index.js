@@ -1,0 +1,1 @@
+export { inStockRoute } from './settingRoute';

@@ -1,0 +1,1 @@
+export { adminContactRoute } from './adminRoute';
